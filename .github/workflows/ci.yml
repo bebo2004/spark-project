@@ -1,5 +1,7 @@
 name: PySpark CI
 
+# Run tests on pull requests
+
 on:
   pull_request:
 
